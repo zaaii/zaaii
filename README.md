@@ -17,6 +17,6 @@ Here are some ideas to get you started:
 <body>
 <h1 align="left">𝗦𝗧𝗔𝗧𝗦</h1>
 
-  | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=Morfz&show_icons=true&include_all_commits=true&theme=github_dark&hide_border=true" alt="Morfz's github stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Morfz&layout=compact&theme=github_dark&hide_border=true" /></a>
+  | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=zaaii&show_icons=true&include_all_commits=true&theme=github_dark&hide_border=true" alt="Zai's github stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zaaii&layout=compact&theme=github_dark&hide_border=true" /></a>
   | ------------- | ------------- |
 </body>
