@@ -7,3 +7,10 @@ I'm Zaini
 ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?&style=for-the-badge&logo=kotlin&logoColor=white)
+
+<p align="left">
+<a href="https://github.com/zaaii">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=zaaii&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=zaaii&layout=compact&langs_count=8&theme=algolia"/>
+</a>
+</p>
