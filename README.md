@@ -1,5 +1,6 @@
 ### Hi there 👋
 I'm Zaini
+[![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/profile?username=zaaii&data=followers,repositories,stars)](https://github.com/Jurredr/github-widgetbox)
 <br><br>
 📃 - I'm currently learning:
 <br><br>
